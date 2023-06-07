@@ -12,7 +12,6 @@ def check_if_palindrome(s):
 
 
 
-
 #Javascript example
 
 # var checkIfPalindrome = function(s) {
