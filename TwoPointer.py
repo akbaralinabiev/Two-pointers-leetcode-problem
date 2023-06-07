@@ -12,7 +12,7 @@ def check_if_palindrome(s):
 
 
 
-#Javascript example
+# Javascript example
 
 # var checkIfPalindrome = function(s) {
 #     let left = 0;
@@ -29,7 +29,7 @@ def check_if_palindrome(s):
 
 
 
-#Java example
+# Java example
 
 # public boolean checkIfPalindrome(String s) {
 #     int left = 0;
@@ -46,7 +46,7 @@ def check_if_palindrome(s):
 
 
 
-#C++ example
+# C++ example
 
 # bool checkIfPalindrome(string s) {
 #     int left = 0;
